@@ -1,8 +1,10 @@
 package booleanpackage;
 
 public class BooleanClass {
+/* modified version*/
 
-    public static void main (String[] args){
+
+    public static void main (String [] args) {
 
         boolean a = true;
         boolean b= false;
